@@ -98,6 +98,10 @@
     },
 
     "Wood": {
+      "wood_techtile": {
+        "description": "Wood, 1.8 cm thick",
+        "coeffs": [0.45, 0.45, 0.45, 0.45, 0.45, 0.45, 0.45]
+      },
       "wood_1.6cm": {
         "description": "Wood, 1.6 cm thick, on 4 cm wooden planks",
         "coeffs": [0.18, 0.12, 0.10, 0.09, 0.08, 0.07, 0.07]
@@ -356,7 +360,7 @@
         "description": "Plasterboard ceiling on battens with large air-space above",
         "coeffs": [0.20, 0.15, 0.10, 0.08, 0.04, 0.02]
       },
-      "ceiling_fibre_absorber": {
+      "ceiling_fibre_abosrber": {
         "description": "Fibre absorber on perforated sheet metal cartridge, 0,5 mm zinc-plated steel, 1.5 mm hole diameter, 200 mm cavity filled with 20 mm mineral wool (20 kg/m3), inflammable",
         "coeffs": [0.48, 0.97, 1.0, 0.97, 1.0, 1.0, 1.0]
       },
